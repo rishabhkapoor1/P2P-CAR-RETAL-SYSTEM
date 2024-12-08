@@ -114,8 +114,7 @@ This is a project for a car rental website. It is a project for the College Mini
 - The project repot has flow chart, ERD, and UML diagram.
 
 ##  License
-
-[MIT](https://choosealicense.com/licenses/mit/) © [Varshith Hegde](https://github.com/Varshithvhegde)
+ © [Rishabh Kapoor]((https://github.com/rishabhkapoor1))
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Demo
@@ -125,8 +124,7 @@ This is a project for a car rental website. It is a project for the College Mini
 
 ## Authors 
 
-- [Varshith V Hegde](https://github.com/Varshithvhegde)
-- [Swasthik Jain PM](https://github.com/Swasthik-Jain)
+- [Rishabh Kapoor]((https://github.com/rishabhkapoor1))
 
 ## Show your support
 

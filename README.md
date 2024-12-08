@@ -115,7 +115,6 @@ This is a project for a car rental website. It is a project for the College Mini
 
 ##  License
  © [Rishabh Kapoor]((https://github.com/rishabhkapoor1))
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Authors 
 

@@ -17,7 +17,6 @@ This is a project for a car rental website. It is a project for the College Mini
 - [Admin Page](#admin-page)
 - [Project Report](#project-report)
 - [License](#license)
-- [Demo](#demo)
 - [Authors](#authors)
 - [Show your support](#show-your-support)
 
